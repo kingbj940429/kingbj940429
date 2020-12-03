@@ -7,6 +7,11 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingbj0429)](https://solved.ac/kingbj0429)
 
+![nodejs](https://img.shields.io/badge/Node.js-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-green?logo=node.js)
+![spring](https://img.shields.io/badge/Spring-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-yellowgreen?logo=spring)
+![oracle](https://img.shields.io/badge/Oracle-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-red?logo=oracle)
+![mysql](https://img.shields.io/badge/Mysql-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-blue?logo=mysql)
+![python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-blue?logo=python)
 <!--
 **kingbj940429/kingbj940429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,4 +30,5 @@ https://www.webfx.com/tools/emoji-cheat-sheet/ ==> 이모지 주소
 https://steemit.com/kr/@nand/markdown ==> 깃헙 마크다운 사용법 주소
 https://img.shields.io/github/languages/top/kingbj940429/BJ.GG ==> 깃헙 프로젝트내 최다 언어
 https://sujinlee.me/professional-github/ ==> 깃헙 포트폴리오 정리 방법
+https://shields.io/ ==> shieds.io 뱃지
 -->
