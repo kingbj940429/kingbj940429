@@ -2,10 +2,15 @@
 
 👋 Hello My name is ByungJun :smiley:
 
+
+### :octocat: Stats
+
 ![KoB's github stats](https://github-readme-stats.vercel.app/api?username=kingbj940429&show_icons=true&theme=radical)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingbj0429)](https://solved.ac/kingbj0429)
+
+### :books: Languages
 
 ![nodejs](https://img.shields.io/badge/Node.js-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-green?logo=node.js&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-yellowgreen?logo=spring&logoColor=white)
