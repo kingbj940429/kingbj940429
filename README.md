@@ -7,6 +7,8 @@
 
 ![KoB's github stats](https://github-readme-stats.vercel.app/api?username=kingbj940429&show_icons=true&theme=radical)
 
+### :pencil: Algorithm 
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingbj0429)](https://solved.ac/kingbj0429)
 
