@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingbj0429%2Fhit-counter&count_bg=%2344F77D&title_bg=%236A5E5E&icon=node-dot-js.svg&icon_color=%2346C724&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-👋 Hello My name is ByungJun
+👋 Hello My name is ByungJun :smiley:
 
 ![KoB's github stats](https://github-readme-stats.vercel.app/api?username=kingbj940429&show_icons=true&theme=radical)
 
@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 https://github.com/anuraghazra/github-readme-stats ==> github stats 주소
-
+https://www.webfx.com/tools/emoji-cheat-sheet/ ==> 이모지 주소
 -->
