@@ -12,13 +12,17 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingbj0429)](https://solved.ac/kingbj0429)
 
-### :books: Languages
+### :video_game: Frameworks
 
 ![nodejs](https://img.shields.io/badge/Node.js-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-green?logo=node.js&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-yellowgreen?logo=spring&logoColor=white)
+
+### :books: Languages
+
 ![oracle](https://img.shields.io/badge/Oracle-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-red?logo=oracle&logoColor=white)
 ![mysql](https://img.shields.io/badge/Mysql-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-blue?logo=mysql&logoColor=white)
 ![python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-blue?logo=python&logoColor=white)
+
 <!--
 **kingbj940429/kingbj940429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
