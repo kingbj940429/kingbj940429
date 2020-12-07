@@ -28,11 +28,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         can be developed through some notes
 
-:star::star::star: - I can develop medium-sized programs and systems and understand internal structure enough to cause major issues
+:star::star::star:&nbsp;&nbsp;&nbsp;&nbsp; - I can develop medium-sized programs and systems and understand internal structure enough to cause major issues
 
-:star::star: - Know how the system works and be able to implement basic functions
+:star::star:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Know how the system works and be able to implement basic functions
 
-:star: - I can read the code and use the book to make some modifications or make small changes
+:star:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - I can read the code and use the book to make some modifications or make small changes
 <!--
 **kingbj940429/kingbj940429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
