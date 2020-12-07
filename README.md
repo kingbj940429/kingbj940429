@@ -14,14 +14,16 @@
 
 ### :video_game: Frameworks
 
-![nodejs](https://img.shields.io/badge/Node.js-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-green?logo=node.js&logoColor=white)
-![spring](https://img.shields.io/badge/Spring-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-yellowgreen?logo=spring&logoColor=white)
+![nodejs](https://img.shields.io/badge/Node.js-★★★☆-green?logo=node.js&logoColor=white)
+![spring](https://img.shields.io/badge/Spring-★★☆☆-yellowgreen?logo=spring&logoColor=white)
 
 ### :books: Languages
 
-![oracle](https://img.shields.io/badge/Oracle-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-red?logo=oracle&logoColor=white)
-![mysql](https://img.shields.io/badge/Mysql-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-blue?logo=mysql&logoColor=white)
-![python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-blue?logo=python&logoColor=white)
+![java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%86%E2%98%86-orange?logo=java&logoColor=white)
+![python](https://img.shields.io/badge/Python-★★☆☆-blue?logo=python&logoColor=white)
+![js](https://img.shields.io/badge/JS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86-yellow?logo=javascript&logoColor=white)
+![oracle](https://img.shields.io/badge/Oracle-★★☆☆-red?logo=oracle&logoColor=white)
+![mysql](https://img.shields.io/badge/Mysql-★★☆☆-blue?logo=mysql&logoColor=white)
 
 #### Criteria for per :star:
 :star::star::star::star: - Large-scale programs and systems can be developed without reference (books/Internet) and some non-typical challenges 
@@ -52,4 +54,5 @@ https://steemit.com/kr/@nand/markdown ==> 깃헙 마크다운 사용법 주소
 https://img.shields.io/github/languages/top/kingbj940429/BJ.GG ==> 깃헙 프로젝트내 최다 언어
 https://sujinlee.me/professional-github/ ==> 깃헙 포트폴리오 정리 방법
 https://shields.io/ ==> shieds.io 뱃지
+https://simpleicons.org/ ==> 깃헙 심플 로고
 -->
