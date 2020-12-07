@@ -23,7 +23,7 @@
 ![mysql](https://img.shields.io/badge/Mysql-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-blue?logo=mysql&logoColor=white)
 ![python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-blue?logo=python&logoColor=white)
 
-#### 
+#### Criteria for per :star:
 ★★★★ - Large-scale programs and systems can be developed without reference (books/Internet) and some non-typical challenges 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         can be developed through some notes
