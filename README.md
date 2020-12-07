@@ -28,15 +28,15 @@ Hello My name is ByungJun :smiley:
 ![mysql](https://img.shields.io/badge/Mysql-★★☆☆-blue?logo=mysql&logoColor=white)
 
 #### Criteria for per :star:
-:star::star::star::star: - Large-scale programs and systems can be developed without reference (books/Internet) and some non-typical challenges 
+:star::star::star::star: : Large-scale programs and systems can be developed without reference (books/Internet) and some non-typical challenges 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         can be developed through some notes
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         can be developed through some notes
 
-:star::star::star:&nbsp;&nbsp;&nbsp;&nbsp; - I can develop medium-sized programs and systems and understand internal structure enough to cause major issues
+:star::star::star:&nbsp;&nbsp;&nbsp;&nbsp; : I can develop medium-sized programs and systems and understand internal structure enough to cause major issues
 
-:star::star:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Know how the system works and be able to implement basic functions
+:star::star:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Know how the system works and be able to implement basic functions
 
-:star:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - I can read the code and use the book to make some modifications or make small changes
+:star:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : I can read the code and use the book to make some modifications or make small changes
 <!--
 **kingbj940429/kingbj940429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
