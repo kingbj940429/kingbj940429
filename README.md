@@ -24,15 +24,15 @@
 ![python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-blue?logo=python&logoColor=white)
 
 #### Criteria for per :star:
-★★★★ - Large-scale programs and systems can be developed without reference (books/Internet) and some non-typical challenges 
+:star::star::star::star: - Large-scale programs and systems can be developed without reference (books/Internet) and some non-typical challenges 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         can be developed through some notes
 
-★★★☆ - I can develop medium-sized programs and systems and understand internal structure enough to cause major issues
+:star::star::star: - I can develop medium-sized programs and systems and understand internal structure enough to cause major issues
 
-★★☆☆ - Know how the system works and be able to implement basic functions
+:star::star: - Know how the system works and be able to implement basic functions
 
-★☆☆☆ - I can read the code and use the book to make some modifications or make small changes
+:star: - I can read the code and use the book to make some modifications or make small changes
 <!--
 **kingbj940429/kingbj940429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
