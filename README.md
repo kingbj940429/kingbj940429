@@ -42,7 +42,7 @@ Hello My name is ByungJun :smiley:
 
 ### :mailbox_with_no_mail: Contact Me
 
-[mail](kingbj0429@gmail.com)
+[mail]<kingbj0429@gmail.com>
 
 <!--
 **kingbj940429/kingbj940429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
