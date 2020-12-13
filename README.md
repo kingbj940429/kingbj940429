@@ -39,6 +39,11 @@ Hello My name is ByungJun :smiley:
 :star::star:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Know how the system works and be able to implement basic functions
 
 :star:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : I can read the code and use the book to make some modifications or make small changes
+
+### :mailbox_with_no_mail: Contact Me
+
+<kingbj0429@gmail.com>
+
 <!--
 **kingbj940429/kingbj940429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
