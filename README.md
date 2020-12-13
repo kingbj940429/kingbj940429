@@ -57,4 +57,5 @@ https://img.shields.io/github/languages/top/kingbj940429/BJ.GG ==> 깃헙 프로
 https://sujinlee.me/professional-github/ ==> 깃헙 포트폴리오 정리 방법
 https://shields.io/ ==> shieds.io 뱃지
 https://simpleicons.org/ ==> 깃헙 심플 로고
+https://hits.seeyoufarm.com/ ==> hits
 -->
