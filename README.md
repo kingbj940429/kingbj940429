@@ -4,6 +4,8 @@
 
 Hello My name is ByungJun :smiley:
 
+Someday I'll be the King of Back-end :crown:
+
 
 ### :octocat: Stats
 
