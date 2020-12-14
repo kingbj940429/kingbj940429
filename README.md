@@ -46,7 +46,7 @@ Someday I'll be the King of Back-end :crown:
 
 ### :mailbox_with_no_mail: Contact Me
 
-:envelope: <kingbj0429@gmail.com> :globe_with_meridians:[Developer Blog](https://kingbj0429.medium.com/)
+:envelope: <kingbj0429@gmail.com> :globe_with_meridians:[Developer Blog](https://kingofbackend.tistory.com/)
 
 <!--
 **kingbj940429/kingbj940429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
