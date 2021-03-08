@@ -32,7 +32,7 @@ Someday I'll be the King of Back-end :crown:
 ![js](https://img.shields.io/badge/JS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86-yellow?logo=javascript&logoColor=white)
 ![DB](https://img.shields.io/badge/Oracle-★★☆☆-red?logo=oracle&logoColor=white)
 <!--![mysql](https://img.shields.io/badge/Mysql-★★☆☆-blue?logo=mysql&logoColor=white)-->
-![linux](https://img.shields.io/badge/Spring-★★★☆-yellowgreen?logo=linux&logoColor=white)
+![linux](https://img.shields.io/badge/Linux-★☆☆☆-yellowgreen?logo=linux&logoColor=white)
 
 #### Criteria for per :star:
 :star::star::star::star: : Large-scale programs and systems can be developed without reference (books/Internet) and some non-typical challenges 
