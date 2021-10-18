@@ -32,7 +32,17 @@ Someday I'll be the King of Back-end :crown:
 ![js](https://img.shields.io/badge/JS-★★★☆-yellow?logo=javascript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-★★☆☆-red?logo=oracle&logoColor=white)
 <!--![mysql](https://img.shields.io/badge/Mysql-★★☆☆-blue?logo=mysql&logoColor=white)-->
-![linux](https://img.shields.io/badge/Linux-★☆☆☆-yellowgreen?logo=linux&logoColor=white)
+
+#### Cloud
+![linux](https://img.shields.io/badge/Linux-★★★☆-yellowgreen?logo=linux&logoColor=white)
+![k8s](https://img.shields.io/badge/K8S-★★☆☆-blue?logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-★★☆☆-blue?logo=Docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-★★☆☆-orange?logo=Amazon&logoColor=white)
+
+#### Others
+![ELK](https://img.shields.io/badge/ELK-★☆☆☆-green?logo=ElasticSearch&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-★☆☆☆-orange?logo=Jenkins&logoColor=white)
+
 
 #### Criteria for per :star:
 :star::star::star::star: : Large-scale programs and systems can be developed without reference (books/Internet) and some non-typical challenges 
