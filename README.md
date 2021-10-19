@@ -23,11 +23,11 @@ Someday I'll be the King of Back-end :crown:
 #### Frameworks
 
 ![nodejs](https://img.shields.io/badge/Node.js-★★★☆-green?logo=node.js&logoColor=white)
-![spring](https://img.shields.io/badge/Spring-★★☆☆-yellowgreen?logo=spring&logoColor=white)
+![spring](https://img.shields.io/badge/Spring-★★★☆-yellowgreen?logo=spring&logoColor=white)
 
 #### Languages
 
-![java](https://img.shields.io/badge/Java-★★☆☆-orange?logo=java&logoColor=white)
+![java](https://img.shields.io/badge/Java-★★★☆-orange?logo=java&logoColor=white)
 ![python](https://img.shields.io/badge/Python-★★☆☆-blue?logo=python&logoColor=white)
 ![js](https://img.shields.io/badge/JS-★★★☆-yellow?logo=javascript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-★★☆☆-red?logo=oracle&logoColor=white)
@@ -37,7 +37,7 @@ Someday I'll be the King of Back-end :crown:
 ![linux](https://img.shields.io/badge/Linux-★★★☆-yellowgreen?logo=linux&logoColor=white)
 ![k8s](https://img.shields.io/badge/K8S-★★☆☆-blue?logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-★★☆☆-blue?logo=Docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-★★☆☆-orange?logo=Amazon&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-★★★☆-orange?logo=Amazon&logoColor=white)
 
 #### Others
 ![ELK](https://img.shields.io/badge/ELK-★☆☆☆-green?logo=ElasticSearch&logoColor=white)
