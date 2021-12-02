@@ -8,7 +8,7 @@ Welcome to my repository :crown:
 
 I'm very interested in Java and infrastructure.
 
-These days, I am studying JPA and I love Kubernetes.:heart:
+These days, I am studying JPA and I love Kubernetes and AWS.:heart:
 
 
 ### :octocat: Stats
