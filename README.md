@@ -42,6 +42,7 @@ Someday I'll be the King of DevOps :crown:
 #### Others
 ![ELK](https://img.shields.io/badge/ELK-★☆☆☆-green?logo=ElasticSearch&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-★☆☆☆-orange?logo=Jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-★☆☆☆-red?logo=ArgoCD&logoColor=white)
 
 
 #### Criteria for per :star:
