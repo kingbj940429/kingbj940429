@@ -4,7 +4,11 @@
 
 Hello My name is ByungJun :smiley:
 
-Someday I'll be the King of DevOps :crown:
+Welcome to my repository :crown:
+
+I'm very interested in Java and infrastructure.
+
+These days, I am studying JPA and I love Kubernetes.:heart:
 
 
 ### :octocat: Stats
