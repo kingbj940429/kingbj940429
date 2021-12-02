@@ -39,8 +39,8 @@ These days, I am studying JPA and I love Kubernetes and AWS.:heart:
 
 #### Cloud
 ![linux](https://img.shields.io/badge/Linux-★★★☆-yellowgreen?logo=linux&logoColor=white)
-![k8s](https://img.shields.io/badge/K8S-★★☆☆-blue?logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-★★☆☆-blue?logo=Docker&logoColor=white)
+![k8s](https://img.shields.io/badge/K8S-★★★☆-blue?logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-★★★☆-blue?logo=Docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-★★★☆-orange?logo=Amazon&logoColor=white)
 
 #### Others
