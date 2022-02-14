@@ -26,13 +26,11 @@ These days, I am studying JPA and I love Kubernetes ,AWS, MSA :heart:
 
 #### Frameworks
 
-![nodejs](https://img.shields.io/badge/Node.js-★★★☆-green?logo=node.js&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-★★★☆-yellowgreen?logo=spring&logoColor=white)
 
 #### Languages
 
 ![java](https://img.shields.io/badge/Java-★★★☆-orange?logo=java&logoColor=white)
-![python](https://img.shields.io/badge/Python-★★☆☆-blue?logo=python&logoColor=white)
 ![js](https://img.shields.io/badge/JS-★★★☆-yellow?logo=javascript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-★★☆☆-red?logo=oracle&logoColor=white)
 <!--![mysql](https://img.shields.io/badge/Mysql-★★☆☆-blue?logo=mysql&logoColor=white)-->
