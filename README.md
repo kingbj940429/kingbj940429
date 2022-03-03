@@ -46,7 +46,7 @@ These days, I am studying JPA and I love Kubernetes ,AWS, MSA :heart:
 ![Jenkins](https://img.shields.io/badge/Jenkins-★☆☆☆-orange?logo=Jenkins&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-★☆☆☆-red?logo=ArgoCD&logoColor=white)
 
-
+<!-- 
 #### Criteria for per :star:
 :star::star::star::star: : Large-scale programs and systems can be developed without reference (books/Internet) and some non-typical challenges 
 
@@ -56,7 +56,7 @@ These days, I am studying JPA and I love Kubernetes ,AWS, MSA :heart:
 
 :star::star:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Know how the system works and be able to implement basic functions
 
-:star:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : I can read the code and use the book to make some modifications or make small changes
+:star:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : I can read the code and use the book to make some modifications or make small changes -->
 
 ### :mailbox_with_no_mail: Contact Me
 
