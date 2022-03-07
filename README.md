@@ -60,7 +60,9 @@ These days, I am studying JPA and I love Kubernetes ,AWS, MSA :heart:
 
 ### :mailbox_with_no_mail: Contact Me
 
-:envelope: <kingbj0429@gmail.com> :globe_with_meridians:[Developer Blog](https://kingofbackend.tistory.com/)
+:sunny:[Portfolio](https://kingbj0429.com/)  
+:globe_with_meridians:[Blog](https://kingofbackend.tistory.com/)  
+:envelope: <kingbj0429@gmail.com> 
 
 <!--
 **kingbj940429/kingbj940429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
