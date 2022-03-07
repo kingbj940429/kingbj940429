@@ -24,27 +24,27 @@ These days, I am studying JPA and I love Kubernetes ,AWS, MSA :heart:
 
 ### :books: Skills
 
-#### Frameworks
 
-![spring](https://img.shields.io/badge/Spring-★★★☆-yellowgreen?logo=spring&logoColor=white)
+<!-- ![spring](https://img.shields.io/badge/Spring-★★★☆-yellowgreen?logo=spring&logoColor=white) -->
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
 
-#### Languages
 
-![java](https://img.shields.io/badge/Java-★★★☆-orange?logo=java&logoColor=white)
-![js](https://img.shields.io/badge/JS-★★★☆-yellow?logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-★★☆☆-red?logo=oracle&logoColor=white)
-<!--![mysql](https://img.shields.io/badge/Mysql-★★☆☆-blue?logo=mysql&logoColor=white)-->
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 
-#### Cloud
-![linux](https://img.shields.io/badge/Linux-★★★☆-yellowgreen?logo=linux&logoColor=white)
-![k8s](https://img.shields.io/badge/K8S-★★★☆-blue?logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-★★★☆-blue?logo=Docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-★★★☆-orange?logo=Amazon&logoColor=white)
 
-#### Others
-![ELK](https://img.shields.io/badge/ELK-★☆☆☆-green?logo=ElasticSearch&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-★☆☆☆-orange?logo=Jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-★☆☆☆-red?logo=ArgoCD&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+
+
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
+![K8S](https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white)  
+
+
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571.svg?&style=for-the-badge&logo=Elasticsearch&logoColor=white)
+![Jenkins](https://img.shields.io/badge/JENKINS-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-F68D2E.svg?&style=for-the-badge&logo=OctopusDeploy&logoColor=white)  
 
 <!-- 
 #### Criteria for per :star:
