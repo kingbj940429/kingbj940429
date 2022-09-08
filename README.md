@@ -8,30 +8,23 @@
 
 Hello My name is ByungJun :smiley:
 
-Welcome to my repository :crown:
-
-I'm very interested in Java and IaC.
-
-These days, I am studying JPA and I love Kubernetes ,AWS, MSA :heart:
-
 
 ### :octocat: Stats
 
 ![KoB's github stats](https://github-readme-stats.vercel.app/api?username=kingbj940429&show_icons=true&theme=radical)
 
 
+<!--
 ### :pencil: Algorithm 
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingbj0429)](https://solved.ac/kingbj0429)
+-->
 
-
+<!--
 ### :books: Skills
 
-
-<!-- ![spring](https://img.shields.io/badge/Spring-★★★☆-yellowgreen?logo=spring&logoColor=white) -->
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
-
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -49,7 +42,7 @@ These days, I am studying JPA and I love Kubernetes ,AWS, MSA :heart:
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571.svg?&style=for-the-badge&logo=Elasticsearch&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/JENKINS-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-F68D2E.svg?&style=for-the-badge&logo=OctopusDeploy&logoColor=white)  
-
+-->
 <!-- 
 #### Criteria for per :star:
 :star::star::star::star: : Large-scale programs and systems can be developed without reference (books/Internet) and some non-typical challenges 
