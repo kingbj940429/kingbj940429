@@ -4,15 +4,18 @@
 
 <!-- <img src="https://user-images.githubusercontent.com/63000843/163091781-0ab3cc37-6a68-4144-a2be-cf48360b3f38.png" width="70"> -->
 
-### :metal: Welcome to KoB's Github&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingbj0429%2Fhit-counter&count_bg=%2344F77D&title_bg=%236A5E5E&icon=node-dot-js.svg&icon_color=%2346C724&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### :metal: Welcome to KoB's Github&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Hello My name is ByungJun :smiley:
+Hello I'm DevOps Engineer :smiley: 
 
+I love kubernetes and other CNCF Projects
 
+<!--
 ### :octocat: Stats
 
 ![KoB's github stats](https://github-readme-stats.vercel.app/api?username=kingbj940429&show_icons=true&theme=radical)
 
+-->
 
 <!--
 ### :pencil: Algorithm 
@@ -55,11 +58,16 @@ Hello My name is ByungJun :smiley:
 
 :star:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : I can read the code and use the book to make some modifications or make small changes -->
 
+<br>
+
 ### :mailbox_with_no_mail: Contact Me
 
+:envelope: <kingbj0429@gmail.com> 
+
+<!--
 :sunny:[Portfolio](https://kingbj0429.com/)  
 :globe_with_meridians:[Blog](https://kingofbackend.tistory.com/)  
-:envelope: <kingbj0429@gmail.com> 
+-->
 
 <!--
 **kingbj940429/kingbj940429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
