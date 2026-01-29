@@ -6,7 +6,7 @@
 
 ### :metal: Welcome to KoB's Github&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Hello I'm DevOps Engineer and CNCF Contributor :smiley: 
+Hello I'm SRE and CNCF Contributor :smiley: 
 
 I love kubernetes and other CNCF Projects
 
