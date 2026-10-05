@@ -8,7 +8,7 @@
 
 Hello I'm SRE and CNCF Contributor :smiley: 
 
-I work at a bank in South Korea 🇰🇷
+I work at a major commercial bank in South Korea 🇰🇷
 
 I love kubernetes and other CNCF Projects
 
