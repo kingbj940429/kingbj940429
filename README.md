@@ -6,11 +6,11 @@
 
 ### :metal: Welcome to KoB's Github&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Hello I'm SRE and CNCF Contributor :smiley: 
+Hello! I'm an SRE and CNCF contributor 😃 
 
-I work at a major commercial bank in South Korea 🇰🇷
+I work at a major commercial bank in South Korea 🇰🇷  
 
-I love kubernetes and other CNCF Projects
+I love Kubernetes and other CNCF projects.
 
 <!--
 ### :octocat: Stats
